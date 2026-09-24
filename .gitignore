@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Local copy of the config from the main project
+handled_fields.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
